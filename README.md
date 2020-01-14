@@ -2,4 +2,4 @@
 
 Testing git push with fast forward
 
-Message for local commit testing fast-forward merge
+Message for local commit with no new changes in remote during push
