@@ -14,3 +14,5 @@
 * Verification:
   * Tag `fast-forward-merge` has only local commit ([commits](https://github.com/trivikr/git-push-test/commits/fast-forward-merge))
   * Tag `no-remote-updates` has no merge commits ([commits](https://github.com/trivikr/git-push-test/commits/no-remote-updates)) created while pushing [d1cc0272f56eb53d97c174c5deab0d652936a201](https://github.com/trivikr/git-push-test/commit/d1cc0272f56eb53d97c174c5deab0d652936a201)
+
+Testing fast forward merge without commit
